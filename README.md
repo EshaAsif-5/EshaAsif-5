@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Esha%20Asif&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20PERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/EshaAsif-5">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Code+today%2C+create+tomorrow.;Building+scalable+web+apps%2C+one+commit+at+a+time.;Full+Stack+Developer+%7C+MERN+%26+PERN+Stack;Turning+ideas+into+interactive+experiences." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Code+today%2C+create+tomorrow.;  Building+scalable+web+apps%2C+one+commit+at+a+time.;Full+Stack+Developer+%7C+MERN+%26+PERN+Stack;Turning+ideas+into+interactive+experiences." alt="Typing SVG" />
 </a>
 
 </div>
