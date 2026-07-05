@@ -11,7 +11,6 @@
 
 </div>
 
----
 
 # 👋 About Me
 
@@ -28,7 +27,6 @@ I enjoy transforming ideas into intuitive digital experiences by combining clean
 - 📐 UI/UX Design using Figma
 - 🚀 Performance Optimization
 
----
 
 # 🛠 Tech Stack
 
@@ -38,7 +36,6 @@ I enjoy transforming ideas into intuitive digital experiences by combining clean
 
 </div>
 
----
 
 # 📈 GitHub Statistics
 
@@ -51,7 +48,6 @@ I enjoy transforming ideas into intuitive digital experiences by combining clean
 
 </div>
 
----
 
 # 🤝 Connect With Me
 
