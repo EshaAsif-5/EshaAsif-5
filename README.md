@@ -20,8 +20,6 @@
 
 - 🚀 Full Stack Developer experienced in delivering web applications for clients and in professional dev environments
 - 🧩 Proficient in **MERN** & **PERN** stack, database management, API development, and responsive web design
-- 🎯 Currently building **Riphah Rozee Pro** — an AI-powered recruitment platform using the Google Gemini API
-- 🌱 Final-year **BS Software Engineering** student at Riphah International University, Islamabad
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB/PostgreSQL, or UI/UX in Figma**
 - 📫 Reach me at **eshaasif005@gmail.com**
 
