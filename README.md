@@ -44,13 +44,10 @@ I enjoy transforming ideas into intuitive digital experiences by combining clean
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EshaAsif-5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EshaAsif-5&theme=tokyonight&hide_border=true"/>
 
 <br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaAsif-5&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
