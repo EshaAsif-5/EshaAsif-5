@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Esha%20Asif&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20PERN%20Stack&descAlignY=55&descSize=18"/>
-
 <a href="https://github.com/EshaAsif-5">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+and+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB+%7C+PostgreSQL;Creating+Clean+UI+and+Exceptional+User+Experiences" />
 </a>
